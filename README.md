@@ -1,10 +1,12 @@
-                             بسم الله الرحمن الرحيم
+<p align="center">
+بسم الله الرحمن الرحيم
+</p>
 
 <p align="center">
   <img src="app-logo.svg" alt="Refq logo" width="120">
 </p>
 
-# رفق — Refq
+# Refq - رفق 
 
 **Simple, private fitness tracking.**
 
