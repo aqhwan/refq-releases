@@ -27,7 +27,7 @@ Refq is a minimal workout and fitness planner built for people who just want to 
 
 ## Download
 
-- **App Store:** _coming soon_
+- **App Store:** [here](https://apps.apple.com/us/app/refq/id6799687137)
 - **Google Play:** _unavailable for now_, have a look at: https://keepandroidopen.org/
 - **android apk**: [github releases](releases/latest)
 
