@@ -43,7 +43,7 @@ Refq is built privacy-first. No account is required, no data leaves your device,
 
 All rights reserved. This repository is provided for release/distribution purposes only. The source code is not licensed for reuse, modification, or redistribution.
 
-© 2026 [Aqhwan / Refq]. All rights reserved.
+© 2026 Aqhwan. All rights reserved.
 
 ---
 
