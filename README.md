@@ -1,6 +1,8 @@
                              بسم الله الرحمن الرحيم
 
-![Refq logo](app-logo.svg)
+<p align="center">
+  <img src="app-logo.svg" alt="Refq logo" width="120">
+</p>
 
 # رفق — Refq
 
